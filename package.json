@@ -1,11 +1,11 @@
 {
-  "name": "about",
+  "name": "about-ide",
   "author": "Machisté N. Quintana <mnquintana@users.noreply.github.com>",
   "main": "./lib/main",
   "version": "1.7.2",
-  "description": "View useful information about your Atom installation.",
+  "description": "View useful information about your Substance IDE installation.",
   "keywords": [],
-  "repository": "https://github.com/atom/about",
+  "repository": "https://github.com/AdrianVovk/about",
   "license": "MIT",
   "scripts": {
     "lint": "standard"
