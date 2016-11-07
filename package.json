@@ -2,7 +2,7 @@
   "name": "about-ide",
   "author": "Machisté N. Quintana <mnquintana@users.noreply.github.com>",
   "main": "./lib/main",
-  "version": "1.7.2",
+  "version": "2.0.0",
   "description": "View useful information about your Substance IDE installation.",
   "keywords": [],
   "repository": "https://github.com/AdrianVovk/about",
